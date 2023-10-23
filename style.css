@@ -1,0 +1,21 @@
+h1{
+    color:rgb(82, 6, 92)
+}
+h2{
+    color:rgb(95, 42, 145)
+}
+
+.header{
+    background-color: rgb(206, 182, 230);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(99,72,130,1) 31%, rgba(196,143,224,0.8323704481792717) 96%, rgba(157,115,186,1) 100%, rgba(17,188,234,1) 100%, rgba(0,212,255,1) 100%);
+}
+
